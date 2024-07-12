@@ -33,6 +33,7 @@ class calculadora:
             self.resultado /= numero
         else:
             print("Error!: División por cero")
+            print("Hola")
 
 
     def obt_resultado(self  ):
